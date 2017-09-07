@@ -3,14 +3,14 @@
 $user = "rob";
 
 if ($user == "rob"){
-	Echo "Hello Rob!";
-	} Else {
-		Echo "Who are you";
+	echo "Hello Rob!";
+	} else {
+		echo "Who are you";
 		}
 	
 	
 	
-}
+
 
 
 
