@@ -1,7 +1,7 @@
 <?php
 
 $user = "rob";
-$age = 25;
+
 
 if ($user == "rob"){
 	echo "Hello Rob!";
@@ -11,9 +11,10 @@ if ($user == "rob"){
 	
 	echo "<br><br>"
 	
-if ($age >= 18){
-	echo "You May Enter";
-    } else {
-		echo "You Shall Not Pass!!!";		
-		}
+#$age = 25;
+#if ($age >= 18){
+#	echo "You May Enter";
+ #   } else {
+#		echo "You Shall Not Pass!!!";		
+#		}
 ?>
