@@ -13,10 +13,10 @@ if ($user == "rob"){
 	
 
 
-#if ($old >= 18){
-#echo "You may enter";
-#} else {"You Shall Not Pass!!!!";	
-	
+if ($old >= 18){
+echo "You may enter";
+} else {"You Shall Not Pass!!!!";	
+}
 
 
 ?>
