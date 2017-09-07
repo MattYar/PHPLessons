@@ -18,5 +18,6 @@ echo "You may enter";
 } else {"You Shall Not Pass!!!!";	
 }
 
-
+echo $old
+echo $user
 ?>
