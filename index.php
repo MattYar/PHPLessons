@@ -11,7 +11,7 @@ if ($user == "rob"){
 	
 	echo "<br><br>"
 	
-$age = "25";
+#$age = "25";
 
 #if ($age >= 18){
 #echo "You may enter";
