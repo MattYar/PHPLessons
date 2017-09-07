@@ -1,7 +1,7 @@
 <?php
 
 $user = "rob";
-$age = "25";
+$age = 25;
 
 if ($user == "rob"){
 	echo "Hello Rob!";
