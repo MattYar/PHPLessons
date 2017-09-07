@@ -8,6 +8,7 @@ if ($user == "rob"){
 	} else {
 			echo "Who are you";
 		}
+	
 	echo "<br><br>"
 	
 if ($age >= 18){
@@ -15,9 +16,4 @@ if ($age >= 18){
     } else {
 		echo "You Shall Not Pass!!!";		
 		}
-	
-
-
-
-
 ?>
